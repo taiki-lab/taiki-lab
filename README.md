@@ -1,5 +1,12 @@
-## Hi there 👋
+# こんにちは! 👋 私は皆川大樹です
 
+## 🙋‍♂️ 自己紹介
+- 💻️ 人事労務系で活用できるデータサイエンスを学んでいます
+
+## 🛠️ 学習中の技術
+
+## 📫 連絡先
+- メール: 
 <!--
 **taiki-lab/taiki-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
